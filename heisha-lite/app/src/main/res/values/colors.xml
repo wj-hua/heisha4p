@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Apple HIG 色彩体系 -->
+    <color name="page_bg">#F2F2F7</color>
+    <color name="card_bg">#FFFFFF</color>
+    <color name="card_bg_secondary">#F8F9FA</color>
+    <color name="card_border">#0A000000</color>
+
+    <!-- 品牌主色：现代 Apple Mint / 黑鲨薄荷绿 -->
+    <color name="accent">#00C48C</color>
+    <color name="accent_light">#1500C48C</color>
+    <color name="accent_dark">#00A876</color>
+
+    <!-- 字体层级 -->
+    <color name="text_primary">#1C1C1E</color>
+    <color name="text_secondary">#8E8E93</color>
+    <color name="text_tertiary">#AEAEB2</color>
+
+    <!-- 分隔线与控件 -->
+    <color name="divider">#E5E5EA</color>
+    <color name="button_grey">#E9E9EB</color>
+    <color name="button_grey_pressed">#D8D8DC</color>
+    <color name="destructive">#FF3B30</color>
+    <color name="destructive_bg">#12FF3B30</color>
+    <color name="timer_active">#FF9500</color>
+
+    <!-- 状态指示胶囊 -->
+    <color name="status_connected_bg">#E6F9F0</color>
+    <color name="status_connected_text">#188038</color>
+    <color name="status_connected_dot">#34C759</color>
+    <color name="status_disconnected_bg">#EFEFF4</color>
+    <color name="status_disconnected_text">#636366</color>
+    <color name="status_disconnected_dot">#8E8E93</color>
+    <color name="status_scanning_bg">#FFF4E5</color>
+    <color name="status_scanning_text">#C97300</color>
+    <color name="status_scanning_dot">#FF9500</color>
+
+    <!-- 温度度量指示 -->
+    <color name="temp_cold">#007AFF</color>
+    <color name="temp_cold_bg">#F0F7FF</color>
+    <color name="temp_hot">#FF9500</color>
+    <color name="temp_hot_bg">#FFF6F0</color>
+
+    <!-- 分段选择器 -->
+    <color name="segmented_bg">#E3E3E8</color>
+    <color name="segmented_item_selected">#FFFFFF</color>
+    <color name="segmented_item_text_selected">#1C1C1E</color>
+    <color name="segmented_item_text_unselected">#636366</color>
+</resources>

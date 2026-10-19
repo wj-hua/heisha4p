@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Apple 风格滑块 Thumb 圆球 -->
+<layer-list xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:top="1dp" android:bottom="0dp" android:left="1dp" android:right="1dp">
+        <shape android:shape="oval">
+            <solid android:color="#24000000" />
+            <size android:width="26dp" android:height="26dp" />
+        </shape>
+    </item>
+    <item android:top="0.5dp" android:bottom="1.5dp" android:left="1dp" android:right="1dp">
+        <shape android:shape="oval">
+            <solid android:color="#FFFFFF" />
+            <stroke android:width="0.5dp" android:color="#0D000000" />
+            <size android:width="26dp" android:height="26dp" />
+        </shape>
+    </item>
+</layer-list>

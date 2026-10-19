@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- 原版 icon_cooler_mode_mute.svg -->
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="22dp" android:height="22dp"
+    android:viewportWidth="20" android:viewportHeight="20">
+    <path android:pathData="M17,19C15.6027,17.2066 12.9912,16 10,16C7.00885,16 4.39726,17.2066 3,19"
+        android:strokeColor="#FFFFFFFF" android:strokeWidth="1.5" android:strokeLineCap="round" />
+    <path android:pathData="M10,14C7.79086,14 6,12.2091 6,10C6,7.79086 7.79086,6 10,6C12.2091,6 14,7.79086 14,10C14,12.2091 12.2091,14 10,14Z"
+        android:strokeColor="#FFFFFFFF" android:strokeWidth="1.5" />
+    <path android:pathData="M1.93552,14C1.33671,12.795 1,11.4368 1,10C1,5.02944 5.02944,1 10,1C14.9706,1 19,5.02944 19,10C19,11.4368 18.6633,12.795 18.0645,14"
+        android:strokeColor="#FFFFFFFF" android:strokeWidth="1.5" android:strokeLineCap="round" />
+</vector>

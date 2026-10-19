@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- 背夹示意图（自绘矢量，替代原厂产品图） -->
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="200dp"
+    android:height="215dp"
+    android:viewportWidth="640"
+    android:viewportHeight="689">
+
+    <!-- 机身：切角八边形 -->
+    <path
+        android:fillColor="#2A2A2E"
+        android:pathData="M120,0 L520,0 L640,120 L640,569 L520,689 L120,689 L0,569 L0,120 Z" />
+
+    <!-- 顶部按键 -->
+    <path
+        android:fillColor="#48484C"
+        android:pathData="M296,22 L344,22 L352,52 L288,52 Z" />
+
+    <!-- 灯环 -->
+    <path
+        android:strokeColor="#B44CFF"
+        android:strokeWidth="26"
+        android:pathData="M70,345 a250,250 0 1,0 500,0 a250,250 0 1,0 -500,0" />
+
+    <!-- 风扇区 -->
+    <path
+        android:fillColor="#3A1F5C"
+        android:pathData="M105,345 a215,215 0 1,0 430,0 a215,215 0 1,0 -430,0" />
+
+    <!-- 格栅 -->
+    <path
+        android:strokeColor="#7A4FB0"
+        android:strokeWidth="5"
+        android:pathData="M150,345 a170,170 0 1,0 340,0 a170,170 0 1,0 -340,0
+            M195,345 a125,125 0 1,0 250,0 a125,125 0 1,0 -250,0
+            M240,345 a80,80 0 1,0 160,0 a80,80 0 1,0 -160,0
+            M320,130 L320,560 M105,345 L535,345
+            M168,193 L472,497 M472,193 L168,497" />
+
+    <!-- 中心轴 -->
+    <path
+        android:fillColor="#1C1C1E"
+        android:pathData="M265,345 a55,55 0 1,0 110,0 a55,55 0 1,0 -110,0" />
+</vector>

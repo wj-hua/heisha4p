@@ -1,0 +1,28 @@
+# macOS
+.DS_Store
+
+# Gradle / Android Studio
+.gradle/
+build/
+local.properties
+.idea/
+*.iml
+captures/
+.externalNativeBuild/
+.cxx/
+
+# 签名文件，绝不提交
+*.jks
+*.keystore
+keystore.properties
+
+# Python
+__pycache__/
+*.pyc
+
+# 原厂 APK 与原始抓包（含个人设备信息）
+*.apk
+*.aab
+dumpsys*.txt
+btsnoop*.log
+*.jsonl

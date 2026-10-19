@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- 硬件展示台柔和背光氛围 -->
+<shape xmlns:android="http://schemas.android.com/apk/res/android"
+    android:shape="oval">
+    <gradient
+        android:type="radial"
+        android:gradientRadius="160dp"
+        android:startColor="#1400C48C"
+        android:centerColor="#0600C48C"
+        android:endColor="#00000000" />
+</shape>

@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Apple 风格十六进制色值药丸容器 -->
+<shape xmlns:android="http://schemas.android.com/apk/res/android">
+    <solid android:color="@color/button_grey" />
+    <corners android:radius="18dp" />
+    <stroke android:width="0.5dp" android:color="@color/card_border" />
+</shape>

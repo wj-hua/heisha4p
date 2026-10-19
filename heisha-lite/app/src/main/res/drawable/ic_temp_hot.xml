@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Apple SF Symbols 风格排热面图标 (flame / heat) -->
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="16dp" android:height="16dp"
+    android:viewportWidth="24" android:viewportHeight="24">
+    <path
+        android:pathData="M12,2C12,2 7,7 7,13C7,15.76 9.24,18 12,18C14.76,18 17,15.76 17,13C17,7 12,2 12,2Z"
+        android:strokeColor="@color/temp_hot"
+        android:strokeWidth="2"
+        android:strokeLineCap="round"
+        android:strokeLineJoin="round" />
+</vector>

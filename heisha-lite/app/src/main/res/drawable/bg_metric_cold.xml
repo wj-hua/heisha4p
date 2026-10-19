@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Apple 风格冷端度量卡片背景 -->
+<shape xmlns:android="http://schemas.android.com/apk/res/android">
+    <solid android:color="@color/temp_cold_bg" />
+    <corners android:radius="14dp" />
+    <stroke android:width="0.5dp" android:color="#20007AFF" />
+</shape>
